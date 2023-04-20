@@ -1,2 +1,2 @@
 What are SPAs, single page application:
-link: https://bit.ly/3BZOL1o
+link: [https://bit.ly/3BZOL1o]
